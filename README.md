@@ -6,3 +6,5 @@
 #####          real value       - 60+3 new cases increased
 ##### 2020-3-30 predicted value - 81 new cases (confirmed only) or 101 new cases increased
 #####          real value       - 76 new cases increased
+##### 2020-3-31 predicted value - 80 new cases (confirmed only) or 86 new cases increased
+#####          real value       - N/A new cases increased
