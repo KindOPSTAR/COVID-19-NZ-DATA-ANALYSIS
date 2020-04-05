@@ -18,3 +18,4 @@
 #####          real value       - 52 new cases increased
 ##### 2020-4-05 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - 48 new cases increased
+-- updated pie graph for Significant clusters in New Zealand
