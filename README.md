@@ -14,3 +14,7 @@
 #####          real value       - 89 new cases increased
 ##### 2020-4-03 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - 49 new cases increased
+##### 2020-4-04 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 52 new cases increased
+##### 2020-4-04 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - N/A new cases increased
