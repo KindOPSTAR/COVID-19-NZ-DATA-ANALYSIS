@@ -40,15 +40,15 @@ jobs:
       run: |
         pip install pytest
         pytest
-    - name: Pocket_Lint
-      uses: PatMyron/pocket-lint@0.1
-    - name: Black Code Formatter
-      uses: lgeiger/black-action@v1.0.1
-    - name: Dingtalk Robot Message
-      uses: fifsky/dingtalk-action@v0.0.1
-      with:
+  #  - name: Pocket_Lint
+  #    uses: PatMyron/pocket-lint@0.1
+  #  - name: Black Code Formatter
+  #    uses: lgeiger/black-action@v1.0.1
+  #  - name: Dingtalk Robot Message
+  #    uses: fifsky/dingtalk-action@v0.0.1
+  #    with:
         # html file path
-        htmlFile: 
+  #      htmlFile: 
         # output file path
-        outputFile: 
+  #      outputFile: 
  
