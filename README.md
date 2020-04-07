@@ -23,4 +23,4 @@
 #####          real value       - 39 new cases increased
 -- Day 14 of lockdown
 ##### 2020-4-07 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
-#####          real value       - 2 new cases increased
+#####          real value       - 32 new cases increased
