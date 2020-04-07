@@ -21,3 +21,6 @@
 -- updated pie graph for Significant clusters in New Zealand
 ##### 2020-4-06 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - 39 new cases increased
+-- Day 14 of lockdown
+##### 2020-4-07 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 2 new cases increased
