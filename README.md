@@ -4,6 +4,7 @@
 #####           real value      - 83 new cases increased
 ##### 2020-3-29 predicted value - 90 new cases (confirmed only) or 99 new cases increased
 #####          real value       - 60+3 new cases increased
+#####           1st death
 ##### 2020-3-30 predicted value - 81 new cases (confirmed only) or 101 new cases increased
 #####          real value       - 76 new cases increased
 ##### 2020-3-31 predicted value - 80 new cases (confirmed only) or 86 new cases increased
@@ -25,4 +26,9 @@
 ##### 2020-4-07 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - 32 new cases increased
 ##### 2020-4-08 predicted value - 43 in new cases (confirmed only) or 70 in new cases increased
-#####          real value       - not avaliable new cases increased
+#####          real value       - 26 new cases increased
+##### 2020-4-09 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 23 avaliable new cases increased
+##### 2020-4-10 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 23 avaliable new cases increased
+#####          2rd death
