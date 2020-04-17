@@ -45,3 +45,5 @@
 #####          9th death
 ##### 2020-4-15 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - 6 avaliable new cases increased
+##### 2020-4-16 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 6 avaliable new cases increased
