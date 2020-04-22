@@ -57,3 +57,6 @@
 ##### 2020-4-20 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - 7 avaliable new cases increased
 ##### the lockdown will be extended for seven days more
+
+##### 2020-4-21 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 2 avaliable new cases increased
