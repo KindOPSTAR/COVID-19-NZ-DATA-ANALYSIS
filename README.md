@@ -64,3 +64,11 @@
 #####          real value       - 6 avaliable new cases increased
 ##### 2020-4-23 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - -1 avaliable new cases increased ## First time increased by negative
+##### 2020-4-24 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 2 avaliable new cases increased ## First time increased by negative
+##### 2020-4-25 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 3 avaliable new cases increased ## First time increased by negative
+##### 2020-4-26 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
+#####          real value       - 4 avaliable new cases increased ## First time increased by negative
+##### Last day of lockdown, alert 4
+##### 2020-4-27 -- change to Level 3
