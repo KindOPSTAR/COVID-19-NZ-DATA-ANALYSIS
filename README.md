@@ -72,3 +72,6 @@
 #####          real value       - 4 avaliable new cases increased ## First time increased by negative
 ##### Last day of lockdown, alert 4
 ##### 2020-4-27 -- change to Level 3
+
+### May
+##### 2020-5-01 -- 
