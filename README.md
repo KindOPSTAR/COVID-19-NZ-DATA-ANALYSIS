@@ -74,4 +74,6 @@
 ##### 2020-4-27 -- change to Level 3
 
 ### May
-##### 2020-5-01 -- 
+##### 2020-5-01
+
+##### 2020-5-04 - First day without any new confirmed case.
