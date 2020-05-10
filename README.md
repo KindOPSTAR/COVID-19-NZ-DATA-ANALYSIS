@@ -77,3 +77,4 @@
 ##### 2020-5-01
 
 ##### 2020-5-04 - First day without any new confirmed case.
+##### 2020-5-10 - Last week in Level 3 Alert
