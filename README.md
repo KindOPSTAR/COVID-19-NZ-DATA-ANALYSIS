@@ -70,7 +70,7 @@
 #####          real value       - 3 avaliable new cases increased ## First time increased by negative
 ##### 2020-4-26 predicted value - not avaliable in new cases (confirmed only) or not avaliable in new cases increased
 #####          real value       - 4 avaliable new cases increased ## First time increased by negative
-##### Last day of lockdown, alert 4
+##### Last day of lockdown, alert level 4
 ##### 2020-4-27 -- change to Level 3
 
 ### May
@@ -78,6 +78,7 @@
 
 ##### 2020-5-04 - First day without any new confirmed case.
 ##### 2020-5-10 - Last week in Level 3 Alert
-##### 2020-5-12 - No any new case today
-##### 2020-5-13 - No any new case - Day 2
-##### 2020-5-14 - No any new case - Day 3
+##### 2020-5-12 - Day 1 with NO any new case 
+##### 2020-5-13 - Day 2 with NO any new case 
+##### 2020-5-14 - Day 3 with NO any new case - FIRST DAY for Level 2 Alert
+
