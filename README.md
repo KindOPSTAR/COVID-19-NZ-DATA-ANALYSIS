@@ -82,3 +82,5 @@
 ##### 2020-5-13 - Day 2 with NO any new case 
 ##### 2020-5-14 - Day 3 with NO any new case - FIRST DAY for Level 2 Alert
 ##### Covid-19 may CLEARed If the increasing rate of new COVID-19's cases is lower than standard value in next 14 days
+
+##### 2020-5-18 - No new confirmed cases, no new possible cases, no death
