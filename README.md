@@ -84,3 +84,4 @@
 ##### Covid-19 may CLEARed If the increasing rate of new COVID-19's cases is lower than standard value in next 14 days
 
 ##### 2020-5-18 - No new confirmed cases, no new possible cases, no death
+##### 2020-5-19 - 4 new confirmed cases, all these 4 cases came back from oversea and already being watched previously.
