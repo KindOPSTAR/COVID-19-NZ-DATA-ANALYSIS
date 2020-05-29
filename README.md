@@ -87,3 +87,4 @@
 ##### 2020-5-19 - 4 new confirmed cases, all these 4 cases came back from oversea and already being watched previously.
 
 ##### 2020-5-26 - no any new case since 4 days ago
+##### 2020-5-29 - no any new case since 7 days ago
