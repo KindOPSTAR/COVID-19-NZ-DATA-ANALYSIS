@@ -88,3 +88,4 @@
 
 ##### 2020-5-26 - no any new case since 4 days ago
 ##### 2020-5-29 - no any new case since 7 days ago
+##### 2020-5-29 - no any new case since 8 days ago - only 1 active case left in Auckland
